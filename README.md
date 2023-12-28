@@ -24,4 +24,4 @@ To setup a different theme, update the last line of the `Microsoft.PowerShell_pr
 
 ### Profile
 
-You can add a symbolic link to the file in this repo to create or replace the file specified by the `$PROFILE variable`.
+You can add a symbolic link to the file in this repo to create or replace the file specified by the `$PROFILE` variable.
