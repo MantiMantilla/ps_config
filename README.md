@@ -17,7 +17,7 @@ Install Caskaydia NerdFonts and change the default font for PowerShell to it.
 Add the bubbles theme to the `\Themes\` directory next to your PowerShell profile script.
 
 ```pwsh
-[Environment]::GetFolderPath("MyDocuments") + "MicrosoftPowerShell"
+[Environment]::GetFolderPath("MyDocuments") + "\MicrosoftPowerShell"
 ```
 
 To setup a different theme, update the last line of the `Microsoft.PowerShell_profile.ps1` file.
